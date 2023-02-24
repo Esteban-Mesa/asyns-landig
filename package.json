@@ -1,0 +1,20 @@
+{
+  "name": "asyns-landig",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Esteban-Mesa/asyns-landig.git"
+  },
+  "keywords": [],
+  "author": "esteban mesa <esteban2002mesa@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Esteban-Mesa/asyns-landig/issues"
+  },
+  "homepage": "https://github.com/Esteban-Mesa/asyns-landig#readme"
+}
