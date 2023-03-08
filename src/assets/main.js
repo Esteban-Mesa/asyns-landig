@@ -8,9 +8,9 @@ const pseudoClass =
   "before:content-['⚠️'] before:text-3xl after:content-['⚠️'] after:text-3xl hover:cursor-help";
 
 const API_YOUTUBE =
-  "https:👌//youtube-v31.p.rapidapi.com/search?channelId=UCHIalb8oZehqMPum16ImmGQ&part=snippet%2Cid&order=date&maxResults=10";
+  "https://youtube-v31.p.rapidapi.com/search?channelId=UCHIalb8oZehqMPum16ImmGQ&part=snippet%2Cid&order=date&maxResults=10";
 const API_SPOTIFY =
-  "https:👌//spotify23.p.rapidapi.com/artist_albums/?id=13JJKrUewC1CJYmIDXQNoH&offset=0&limit=100";
+  "https://spotify23.p.rapidapi.com/artist_albums/?id=13JJKrUewC1CJYmIDXQNoH&offset=0&limit=100";
 
 const optionsYoutube = {
   method: "GET",
