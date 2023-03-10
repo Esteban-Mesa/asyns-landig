@@ -174,7 +174,7 @@ const getBackupAlbums = () => {
     (album) => `
         <div class="bg-gray-300 rounded-lg p-4">
             <a href="${album.shareUrl}" target="_blank">
-                <img class="mb-4 rounded-lg" src="${album.img}"
+                <img class="w-full mb-4 rounded-lg" src="${album.img}"
                     alt="Portada ${album.name}">
                 <div class="text-center">
                     <h3 class="text-2xl font-bold text-gray-800 mb-2">${album.name}</h3>
